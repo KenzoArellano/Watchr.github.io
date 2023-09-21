@@ -1,0 +1,2228 @@
+.component {
+  position: relative;
+  width: 5516px;
+  height: 2233px;
+}
+
+.component .income-tab {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 1209px;
+  left: 4076px;
+  background-color: #ffffff;
+  overflow: hidden;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .overlap {
+  position: relative;
+  width: 2183px;
+  height: 1381px;
+  left: -743px;
+}
+
+.component .overlap-group {
+  position: absolute;
+  width: 2183px;
+  height: 1381px;
+  top: 0;
+  left: 0;
+}
+
+.component .rectangle {
+  position: absolute;
+  width: 73px;
+  height: 1765px;
+  top: -49px;
+  left: 857px;
+  background-color: #6d55cf;
+  transform: rotate(125.89deg);
+}
+
+.component .div {
+  position: absolute;
+  width: 73px;
+  height: 1765px;
+  top: -243px;
+  left: 700px;
+  background-color: #d572d7;
+  transform: rotate(125.89deg);
+  box-shadow: 0px 4px 4px #00000080;
+}
+
+.component .rectangle-2 {
+  position: absolute;
+  width: 73px;
+  height: 1765px;
+  top: -102px;
+  left: 1014px;
+  background-color: #64deb9d1;
+  transform: rotate(125.89deg);
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .rectangle-3 {
+  position: absolute;
+  width: 185px;
+  height: 1024px;
+  top: 0;
+  left: 743px;
+  background-color: #424245;
+  border: 1px solid;
+  border-color: #00000040;
+}
+
+.component .rectangle-4 {
+  position: absolute;
+  width: 1440px;
+  height: 128px;
+  top: 0;
+  left: 743px;
+  background-color: #19191a;
+}
+
+.component .rectangle-5 {
+  position: absolute;
+  width: 1440px;
+  height: 128px;
+  top: 896px;
+  left: 743px;
+  background-color: #19191a;
+}
+
+.component .rectangle-6 {
+  position: absolute;
+  width: 162px;
+  height: 743px;
+  top: 140px;
+  left: 752px;
+  background-color: #272626;
+}
+
+.component .rectangle-7 {
+  position: absolute;
+  width: 84px;
+  height: 1024px;
+  top: 0;
+  left: 2099px;
+  background-color: #424245;
+  border: 1px solid;
+  border-color: #00000040;
+}
+
+.component .text-wrapper {
+  position: absolute;
+  width: 576px;
+  top: 2px;
+  left: 640px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #473886d1;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .text-wrapper-2 {
+  position: absolute;
+  width: 943px;
+  top: 69px;
+  left: 563px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #473886d1;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-3 {
+  position: absolute;
+  top: 69px;
+  left: 1376px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #64deb9d1;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-4 {
+  position: absolute;
+  top: 69px;
+  left: 1162px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #d572d7;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-5 {
+  position: absolute;
+  width: 97px;
+  top: 69px;
+  left: 1293px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #473886d1;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .div-2 {
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  top: 35px;
+  left: 2112px;
+  background-color: #473886;
+  border: 1px solid;
+  border-color: #00000040;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .rectangle-8 {
+  position: absolute;
+  width: 39px;
+  height: 6px;
+  top: 25px;
+  left: 9px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #00000040;
+}
+
+.component .rectangle-9 {
+  position: absolute;
+  width: 39px;
+  height: 6px;
+  top: 8px;
+  left: 9px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #00000040;
+}
+
+.component .rectangle-10 {
+  position: absolute;
+  width: 39px;
+  height: 6px;
+  top: 42px;
+  left: 9px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #00000040;
+}
+
+.component .rectangle-11 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 350px;
+  left: 761px;
+  background-color: #d572d7;
+}
+
+.component .rectangle-12 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 447px;
+  left: 761px;
+  background-color: #64deb9d1;
+}
+
+.component .rectangle-13 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 544px;
+  left: 761px;
+  background-color: #e66969;
+}
+
+.component .text-wrapper-6 {
+  position: absolute;
+  width: 123px;
+  top: 357px;
+  left: 770px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .rectangle-14 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 254px;
+  left: 761px;
+  background-color: #6d55cfd1;
+}
+
+.component .text-wrapper-7 {
+  position: absolute;
+  width: 123px;
+  top: 261px;
+  left: 770px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .rectangle-15 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 175px;
+  left: 763px;
+  background-color: #f6c851d1;
+}
+
+.component .text-wrapper-8 {
+  position: absolute;
+  width: 123px;
+  top: 182px;
+  left: 772px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .text-wrapper-9 {
+  position: absolute;
+  width: 123px;
+  top: 455px;
+  left: 772px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .rectangle-16 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 806px;
+  left: 760px;
+  background-color: #473886d1;
+}
+
+.component .text-wrapper-10 {
+  position: absolute;
+  width: 123px;
+  top: 815px;
+  left: 770px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #e66969;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .rectangle-17 {
+  position: absolute;
+  width: 565px;
+  height: 532px;
+  top: 157px;
+  left: 963px;
+  background-color: #383838;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .rectangle-18 {
+  position: absolute;
+  width: 565px;
+  height: 152px;
+  top: 719px;
+  left: 963px;
+  background-color: #383838e0;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .rectangle-19 {
+  position: absolute;
+  width: 597px;
+  height: 75px;
+  top: 175px;
+  left: 943px;
+  background-color: #d9d9d9;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .rectangle-20 {
+  position: absolute;
+  width: 276px;
+  height: 41px;
+  top: 307px;
+  left: 1160px;
+  background-color: #d9d9d9;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .add-income {
+  width: 363px;
+  height: 37px;
+  top: 174px;
+  left: 906px;
+  color: transparent;
+  font-size: 32px;
+  white-space: nowrap;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .span {
+  font-style: italic;
+  color: #383838;
+}
+
+.component .text-wrapper-11 {
+  font-style: italic;
+  color: #473886;
+}
+
+.component .text-wrapper-12 {
+  position: absolute;
+  width: 363px;
+  height: 37px;
+  top: 307px;
+  left: 869px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #6d55cfd1;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .rectangle-21 {
+  position: absolute;
+  width: 234px;
+  height: 50px;
+  top: 616px;
+  left: 1128px;
+  background-color: #473886;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .text-wrapper-13 {
+  width: 208px;
+  height: 58px;
+  top: 592px;
+  left: 1141px;
+  font-style: italic;
+  color: #64deb9d1;
+  font-size: 20px;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-14 {
+  position: absolute;
+  width: 281px;
+  height: 21px;
+  top: 316px;
+  left: 1101px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #a0a0a0;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .rectangle-22 {
+  position: absolute;
+  width: 276px;
+  height: 41px;
+  top: 431px;
+  left: 1160px;
+  background-color: #d9d9d9;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .text-wrapper-15 {
+  position: absolute;
+  width: 363px;
+  height: 37px;
+  top: 431px;
+  left: 869px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #6d55cfd1;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .text-wrapper-16 {
+  position: absolute;
+  width: 333px;
+  height: 21px;
+  top: 440px;
+  left: 1069px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #a0a0a0;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .expand-down {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 439px;
+  left: 1402px;
+}
+
+.component .text-wrapper-17 {
+  position: absolute;
+  width: 123px;
+  top: 542px;
+  left: 769px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .overlap-2 {
+  position: absolute;
+  width: 576px;
+  height: 576px;
+  top: 135px;
+  left: 1527px;
+}
+
+.component .rectangle-23 {
+  position: absolute;
+  width: 408px;
+  height: 408px;
+  top: 84px;
+  left: 84px;
+  background-color: #424245;
+  transform: rotate(-29.5deg);
+}
+
+.component .rectangle-24 {
+  position: absolute;
+  width: 408px;
+  height: 408px;
+  top: 84px;
+  left: 84px;
+  background-color: #19191a;
+  transform: rotate(-35.4deg);
+}
+
+.component .rectangle-25 {
+  position: absolute;
+  width: 408px;
+  height: 408px;
+  top: 84px;
+  left: 84px;
+  background-color: #424245;
+  transform: rotate(-41.26deg);
+}
+
+.component .ellipse {
+  position: absolute;
+  width: 502px;
+  height: 502px;
+  top: 20px;
+  left: 37px;
+  background-color: #64deb9;
+  border-radius: 251px;
+  border: 1px solid;
+  border-color: #00000033;
+  transform: rotate(2.21deg);
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .ellipse-2 {
+  position: absolute;
+  width: 470px;
+  height: 470px;
+  top: 36px;
+  left: 53px;
+  background-color: #ffffff;
+  border-radius: 235px;
+  transform: rotate(2.21deg);
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .text-wrapper-18 {
+  position: absolute;
+  width: 306px;
+  top: 268px;
+  left: 136px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #383838;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .text-wrapper-19 {
+  position: absolute;
+  width: 382px;
+  top: 301px;
+  left: 97px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #64deb9d1;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .text-wrapper-20 {
+  position: absolute;
+  width: 448px;
+  top: 203px;
+  left: 64px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #473886d1;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .expenses-tab {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 39px;
+  left: 0;
+  background-color: #ffffff;
+  overflow: hidden;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .rectangle-26 {
+  position: absolute;
+  width: 39px;
+  height: 6px;
+  top: 61px;
+  left: 2122px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #00000040;
+}
+
+.component .rectangle-27 {
+  position: absolute;
+  width: 39px;
+  height: 6px;
+  top: 44px;
+  left: 2122px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #00000040;
+}
+
+.component .rectangle-28 {
+  position: absolute;
+  width: 39px;
+  height: 6px;
+  top: 78px;
+  left: 2122px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #00000040;
+}
+
+.component .rectangle-29 {
+  position: absolute;
+  width: 565px;
+  height: 532px;
+  top: 157px;
+  left: 963px;
+  background-color: #473886;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .rectangle-30 {
+  position: absolute;
+  width: 565px;
+  height: 152px;
+  top: 719px;
+  left: 963px;
+  background-color: #473886;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .rectangle-31 {
+  position: absolute;
+  width: 597px;
+  height: 75px;
+  top: 175px;
+  left: 943px;
+  background-color: #383838;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .text-wrapper-21 {
+  position: absolute;
+  width: 363px;
+  height: 37px;
+  top: 182px;
+  left: 902px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #d572d7;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .text-wrapper-22 {
+  position: absolute;
+  width: 363px;
+  height: 37px;
+  top: 307px;
+  left: 869px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .rectangle-32 {
+  position: absolute;
+  width: 234px;
+  height: 50px;
+  top: 763px;
+  left: 1128px;
+  background-color: #33363f;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .text-wrapper-23 {
+  position: absolute;
+  width: 208px;
+  height: 58px;
+  top: 739px;
+  left: 1141px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #64deb9d1;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-24 {
+  width: 363px;
+  height: 37px;
+  top: 431px;
+  left: 869px;
+  text-shadow: 0px 4px 4px #00000040;
+  color: #ffffff;
+  font-size: 32px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .rectangle-33 {
+  position: absolute;
+  width: 523px;
+  height: 111px;
+  top: 551px;
+  left: 984px;
+  background-color: #d9d9d9;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .text-wrapper-25 {
+  position: absolute;
+  width: 363px;
+  height: 37px;
+  top: 501px;
+  left: 897px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .text-wrapper-26 {
+  position: absolute;
+  width: 333px;
+  height: 21px;
+  top: 560px;
+  left: 893px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #a0a0a0;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .img {
+  width: 24px;
+  top: 315px;
+  left: 1402px;
+  position: absolute;
+  height: 24px;
+}
+
+.component .rectangle-34 {
+  top: 358px;
+  left: 761px;
+  background-color: #d572d7;
+  position: absolute;
+  width: 146px;
+  height: 39px;
+}
+
+.component .rectangle-35 {
+  top: 455px;
+  left: 761px;
+  background-color: #64deb9d1;
+  position: absolute;
+  width: 146px;
+  height: 39px;
+}
+
+.component .rectangle-36 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 552px;
+  left: 761px;
+  background-color: #e66969;
+}
+
+.component .text-wrapper-27 {
+  position: absolute;
+  width: 123px;
+  top: 365px;
+  left: 770px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .rectangle-37 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 262px;
+  left: 761px;
+  background-color: #6d55cfd1;
+}
+
+.component .text-wrapper-28 {
+  position: absolute;
+  width: 123px;
+  top: 269px;
+  left: 770px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .rectangle-38 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 183px;
+  left: 763px;
+  background-color: #f6c851d1;
+}
+
+.component .text-wrapper-29 {
+  width: 123px;
+  top: 190px;
+  left: 772px;
+  -webkit-text-stroke: 1px #00000033;
+  color: #ffffff;
+  font-size: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-30 {
+  position: absolute;
+  width: 123px;
+  top: 463px;
+  left: 772px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .text-wrapper-31 {
+  position: absolute;
+  width: 123px;
+  top: 550px;
+  left: 772px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .expand-down-2 {
+  width: 24px;
+  top: 487px;
+  left: 535px;
+  position: absolute;
+  height: 24px;
+}
+
+.component .view-transactions {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 0;
+  left: 4076px;
+  background-color: #473886;
+  overflow: hidden;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .overlap-3 {
+  position: absolute;
+  width: 1620px;
+  height: 139px;
+  top: 0;
+  left: -180px;
+}
+
+.component .rectangle-39 {
+  left: 180px;
+  background-color: #19191a;
+  position: absolute;
+  width: 1440px;
+  height: 128px;
+  top: 0;
+}
+
+.component .text-wrapper-32 {
+  position: absolute;
+  width: 576px;
+  top: 2px;
+  left: 77px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #473886d1;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .text-wrapper-33 {
+  position: absolute;
+  width: 943px;
+  top: 69px;
+  left: 0;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #473886d1;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-34 {
+  position: absolute;
+  top: 69px;
+  left: 813px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #64deb9d1;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-35 {
+  position: absolute;
+  top: 69px;
+  left: 599px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #d572d7;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-36 {
+  position: absolute;
+  width: 97px;
+  top: 69px;
+  left: 730px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #473886d1;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .rectangle-40 {
+  position: absolute;
+  width: 39px;
+  height: 2px;
+  top: 45px;
+  left: 1558px;
+  background-color: #19191a;
+  border: 1px solid;
+  border-color: #00000040;
+}
+
+.component .overlap-4 {
+  position: absolute;
+  width: 1087px;
+  height: 704px;
+  top: 155px;
+  left: 192px;
+  background-color: #19191a;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .overlap-5 {
+  position: absolute;
+  width: 631px;
+  height: 101px;
+  top: 11px;
+  left: 275px;
+}
+
+.component .text-wrapper-37 {
+  position: absolute;
+  width: 631px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #473886;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .rectangle-41 {
+  position: absolute;
+  width: 194px;
+  height: 36px;
+  top: 65px;
+  left: 431px;
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .text-wrapper-38 {
+  position: absolute;
+  width: 161px;
+  top: 70px;
+  left: 394px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #424245;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .expand-down-3 {
+  width: 20px;
+  top: 71px;
+  left: 592px;
+  position: absolute;
+  height: 24px;
+}
+
+.component .overlap-6 {
+  position: absolute;
+  width: 724px;
+  height: 75px;
+  top: 135px;
+  left: 176px;
+}
+
+.component .rectangle-42 {
+  position: absolute;
+  width: 196px;
+  height: 38px;
+  top: 0;
+  left: 8px;
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .rectangle-43 {
+  position: absolute;
+  width: 196px;
+  height: 37px;
+  top: 38px;
+  left: 8px;
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .rectangle-44 {
+  position: absolute;
+  width: 326px;
+  height: 38px;
+  top: 0;
+  left: 204px;
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .rectangle-45 {
+  position: absolute;
+  width: 194px;
+  height: 38px;
+  top: 0;
+  left: 530px;
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .rectangle-46 {
+  position: absolute;
+  width: 194px;
+  height: 37px;
+  top: 38px;
+  left: 530px;
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .rectangle-47 {
+  position: absolute;
+  width: 326px;
+  height: 37px;
+  top: 38px;
+  left: 204px;
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .text-wrapper-39 {
+  width: 154px;
+  top: 5px;
+  left: 26px;
+  color: #383838;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-40 {
+  position: absolute;
+  width: 587px;
+  top: 5px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #33363f;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-41 {
+  position: absolute;
+  width: 146px;
+  top: 45px;
+  left: 30px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-42 {
+  width: 170px;
+  top: 5px;
+  left: 502px;
+  color: #424245;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .bought-items-from {
+  position: absolute;
+  width: 303px;
+  top: 45px;
+  left: 171px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #383838;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-43 {
+  position: absolute;
+  width: 113px;
+  top: 50px;
+  left: 571px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #473886;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .overlap-7 {
+  position: absolute;
+  width: 522px;
+  height: 38px;
+  top: 210px;
+  left: 184px;
+}
+
+.component .rectangle-48 {
+  position: absolute;
+  width: 196px;
+  height: 38px;
+  top: 0;
+  left: 0;
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .rectangle-49 {
+  position: absolute;
+  width: 326px;
+  height: 38px;
+  top: 0;
+  left: 196px;
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .text-wrapper-44 {
+  position: absolute;
+  width: 146px;
+  top: 8px;
+  left: 18px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .bill-payment {
+  position: absolute;
+  width: 303px;
+  top: 8px;
+  left: 134px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #383838;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .div-wrapper {
+  position: absolute;
+  width: 194px;
+  height: 38px;
+  top: 210px;
+  left: 706px;
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .text-wrapper-45 {
+  position: absolute;
+  width: 113px;
+  top: 11px;
+  left: 40px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #473886;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .overlap-8 {
+  position: absolute;
+  width: 829px;
+  height: 37px;
+  top: 248px;
+  left: 124px;
+}
+
+.component .rectangle-50 {
+  position: absolute;
+  width: 196px;
+  height: 37px;
+  top: 0;
+  left: 60px;
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .rectangle-51 {
+  position: absolute;
+  width: 194px;
+  height: 37px;
+  top: 0;
+  left: 582px;
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .rectangle-52 {
+  position: absolute;
+  width: 326px;
+  height: 37px;
+  top: 0;
+  left: 256px;
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .text-wrapper-46 {
+  position: absolute;
+  width: 303px;
+  top: 8px;
+  left: 138px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #383838;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-47 {
+  left: 526px;
+  position: absolute;
+  width: 303px;
+  top: 8px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #383838;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-48 {
+  left: 0;
+  position: absolute;
+  width: 303px;
+  top: 8px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #383838;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .overlap-9 {
+  position: absolute;
+  width: 829px;
+  height: 38px;
+  top: 285px;
+  left: 124px;
+}
+
+.component .rectangle-53 {
+  position: absolute;
+  width: 196px;
+  height: 38px;
+  top: 0;
+  left: 60px;
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .rectangle-54 {
+  position: absolute;
+  width: 194px;
+  height: 38px;
+  top: 0;
+  left: 582px;
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .rectangle-55 {
+  position: absolute;
+  width: 326px;
+  height: 38px;
+  top: 0;
+  left: 256px;
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.component .overlap-10 {
+  position: absolute;
+  width: 829px;
+  height: 37px;
+  top: 323px;
+  left: 124px;
+}
+
+.component .overlap-11 {
+  position: absolute;
+  width: 829px;
+  height: 38px;
+  top: 360px;
+  left: 124px;
+}
+
+.component .overlap-12 {
+  position: absolute;
+  width: 829px;
+  height: 37px;
+  top: 398px;
+  left: 124px;
+}
+
+.component .overlap-group-2 {
+  position: absolute;
+  width: 829px;
+  height: 38px;
+  top: 435px;
+  left: 124px;
+}
+
+.component .overlap-13 {
+  position: absolute;
+  width: 829px;
+  height: 37px;
+  top: 473px;
+  left: 124px;
+}
+
+.component .overlap-14 {
+  position: absolute;
+  width: 829px;
+  height: 38px;
+  top: 510px;
+  left: 124px;
+}
+
+.component .overlap-15 {
+  position: absolute;
+  width: 238px;
+  height: 52px;
+  top: 636px;
+  left: 834px;
+}
+
+.component .rectangle-56 {
+  position: absolute;
+  width: 238px;
+  height: 52px;
+  top: 0;
+  left: 0;
+  background-color: #424245;
+}
+
+.component .text-wrapper-49 {
+  position: absolute;
+  width: 123px;
+  top: 9px;
+  left: 58px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #64deb9d1;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .balance-tab {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 1170px;
+  left: 0;
+  background-color: #ffffff;
+  overflow: hidden;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .rectangle-57 {
+  top: 899px;
+  left: 736px;
+  background-color: #19191a;
+  position: absolute;
+  width: 1440px;
+  height: 128px;
+}
+
+.component .rectangle-58 {
+  position: absolute;
+  width: 1080px;
+  height: 742px;
+  top: 140px;
+  left: 977px;
+}
+
+.component .ellipse-3 {
+  position: absolute;
+  width: 602px;
+  height: 602px;
+  top: 231px;
+  left: 1216px;
+  background-color: #64deb9;
+  border-radius: 301px;
+  border: 1px solid;
+  border-color: #00000033;
+  transform: rotate(2.37deg);
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .ellipse-4 {
+  position: absolute;
+  width: 560px;
+  height: 560px;
+  top: 250px;
+  left: 1237px;
+  background-color: #ffffff;
+  border-radius: 280px;
+  transform: rotate(2.36deg);
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .text-wrapper-50 {
+  position: absolute;
+  width: 342px;
+  top: 517px;
+  left: 1347px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #383838;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-51 {
+  position: absolute;
+  width: 428px;
+  top: 572px;
+  left: 1304px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #383838;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .text-wrapper-52 {
+  position: absolute;
+  width: 501px;
+  top: 446px;
+  left: 1268px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #473886d1;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .rectangle-59 {
+  position: absolute;
+  width: 364px;
+  height: 78px;
+  top: 162px;
+  left: 966px;
+  background-color: #64deb9;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .text-wrapper-53 {
+  position: absolute;
+  width: 363px;
+  height: 37px;
+  top: 182px;
+  left: 933px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #272626;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .rectangle-60 {
+  top: 349px;
+  left: 761px;
+  background-color: #d572d7;
+  position: absolute;
+  width: 146px;
+  height: 39px;
+}
+
+.component .rectangle-61 {
+  top: 446px;
+  left: 761px;
+  background-color: #64deb9d1;
+  position: absolute;
+  width: 146px;
+  height: 39px;
+}
+
+.component .rectangle-62 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 543px;
+  left: 761px;
+  background-color: #e66969;
+}
+
+.component .text-wrapper-54 {
+  position: absolute;
+  width: 123px;
+  top: 356px;
+  left: 770px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .rectangle-63 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 253px;
+  left: 761px;
+  background-color: #6d55cfd1;
+}
+
+.component .text-wrapper-55 {
+  position: absolute;
+  width: 123px;
+  top: 260px;
+  left: 770px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .rectangle-64 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 174px;
+  left: 763px;
+  background-color: #f6c851d1;
+}
+
+.component .text-wrapper-56 {
+  width: 123px;
+  top: 181px;
+  left: 772px;
+  -webkit-text-stroke: 1px #00000033;
+  color: #ffffff;
+  font-size: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-57 {
+  position: absolute;
+  width: 123px;
+  top: 454px;
+  left: 772px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .text-wrapper-58 {
+  position: absolute;
+  width: 123px;
+  top: 541px;
+  left: 771px;
+  -webkit-text-stroke: 1px #00000033;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .home-screen {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 785px;
+  left: 1919px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.component .overlap-16 {
+  position: relative;
+  height: 1024px;
+}
+
+.component .rectangle-65 {
+  position: absolute;
+  width: 376px;
+  height: 292px;
+  top: 732px;
+  left: 29px;
+}
+
+.component .rectangle-66 {
+  position: absolute;
+  width: 734px;
+  height: 931px;
+  top: 93px;
+  left: 0;
+}
+
+.component .rectangle-67 {
+  position: absolute;
+  width: 1048px;
+  height: 790px;
+  top: 234px;
+  left: 0;
+}
+
+.component .rectangle-68 {
+  position: absolute;
+  width: 185px;
+  height: 1024px;
+  top: 0;
+  left: 0;
+}
+
+.component .rectangle-69 {
+  left: 0;
+  position: absolute;
+  width: 1440px;
+  height: 128px;
+  top: 0;
+}
+
+.component .rectangle-70 {
+  top: 896px;
+  left: 0;
+  position: absolute;
+  width: 1440px;
+  height: 128px;
+}
+
+.component .rectangle-71 {
+  position: absolute;
+  width: 162px;
+  height: 743px;
+  top: 140px;
+  left: 9px;
+}
+
+.component .rectangle-72 {
+  position: absolute;
+  width: 84px;
+  height: 1024px;
+  top: 0;
+  left: 1356px;
+}
+
+.component .WATCHR {
+  position: absolute;
+  width: 294px;
+  height: 56px;
+  top: 18px;
+  left: 41px;
+}
+
+.component .keeping-your {
+  position: absolute;
+  width: 222px;
+  height: 40px;
+  top: 76px;
+  left: 181px;
+}
+
+.component .focus {
+  position: absolute;
+  width: 96px;
+  height: 24px;
+  top: 78px;
+  left: 633px;
+}
+
+.component .finances {
+  position: absolute;
+  width: 146px;
+  height: 25px;
+  top: 76px;
+  left: 419px;
+}
+
+.component .in {
+  position: absolute;
+  width: 29px;
+  height: 25px;
+  top: 76px;
+  left: 584px;
+}
+
+.component .rectangle-73 {
+  position: absolute;
+  width: 1080px;
+  height: 742px;
+  top: 140px;
+  left: 234px;
+}
+
+.component .rectangle-74 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 806px;
+  left: 17px;
+}
+
+.component .log-out {
+  position: absolute;
+  width: 63px;
+  height: 15px;
+  top: 819px;
+  left: 57px;
+}
+
+.component .rectangle-75 {
+  position: absolute;
+  width: 372px;
+  height: 86px;
+  top: 162px;
+  left: 219px;
+}
+
+.component .home {
+  position: absolute;
+  width: 124px;
+  height: 37px;
+  top: 182px;
+  left: 309px;
+}
+
+.component .rectangle-76 {
+  top: 349px;
+  left: 18px;
+  position: absolute;
+  width: 146px;
+  height: 39px;
+}
+
+.component .rectangle-77 {
+  top: 446px;
+  left: 18px;
+  position: absolute;
+  width: 146px;
+  height: 39px;
+}
+
+.component .rectangle-78 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 543px;
+  left: 18px;
+}
+
+.component .expenses {
+  position: absolute;
+  width: 78px;
+  height: 15px;
+  top: 361px;
+  left: 50px;
+}
+
+.component .rectangle-79 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 253px;
+  left: 18px;
+}
+
+.component .income {
+  position: absolute;
+  width: 59px;
+  height: 12px;
+  top: 265px;
+  left: 60px;
+}
+
+.component .rectangle-80 {
+  position: absolute;
+  width: 146px;
+  height: 39px;
+  top: 174px;
+  left: 20px;
+}
+
+.component .home-2 {
+  position: absolute;
+  width: 46px;
+  height: 12px;
+  top: 186px;
+  left: 68px;
+}
+
+.component .balance {
+  position: absolute;
+  width: 64px;
+  height: 12px;
+  top: 459px;
+  left: 59px;
+}
+
+.component .view-transaction {
+  position: absolute;
+  width: 95px;
+  height: 32px;
+  top: 546px;
+  left: 43px;
+}
+
+.component .rectangle-81 {
+  position: absolute;
+  width: 556px;
+  height: 556px;
+  top: 229px;
+  left: 496px;
+}
+
+.component .rectangle-82 {
+  position: absolute;
+  width: 569px;
+  height: 569px;
+  top: 222px;
+  left: 489px;
+}
+
+.component .rectangle-83 {
+  position: absolute;
+  width: 576px;
+  height: 576px;
+  top: 219px;
+  left: 486px;
+}
+
+.component .ellipse-5 {
+  position: absolute;
+  width: 510px;
+  height: 510px;
+  top: 239px;
+  left: 519px;
+}
+
+.component .ellipse-6 {
+  position: absolute;
+  width: 478px;
+  height: 478px;
+  top: 255px;
+  left: 535px;
+}
+
+.component .remaining {
+  position: absolute;
+  width: 179px;
+  height: 40px;
+  top: 494px;
+  left: 685px;
+}
+
+.component .balance-2 {
+  position: absolute;
+  width: 136px;
+  height: 32px;
+  top: 529px;
+  left: 706px;
+}
+
+.component .element {
+  position: absolute;
+  width: 137px;
+  height: 30px;
+  top: 432px;
+  left: 707px;
+}
